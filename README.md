@@ -64,7 +64,7 @@ Painel administrativo exclusivo:
 ```text
 ESP32 ligado
    ↓
-Cria Wi-Fi: ESPZap
+Cria Wi-Fi: EspChat
    ↓
 Usuário conecta
    ↓
@@ -103,8 +103,8 @@ Usa o sistema
 ## Wi-Fi
 
 ```text
-SSID: ESPZap
-Senha: 12345678
+SSID: EspChat
+Senha: EspChaTP1
 ```
 
 ## Admin
@@ -180,5 +180,4 @@ Livre para estudos, melhorias e uso pessoal.
 ---
 
 # 👨‍💻 Autor
-
 Geovane Augusto
