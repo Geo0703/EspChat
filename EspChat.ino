@@ -5,7 +5,7 @@ ESP32 + Arduino IDE
 
 WiFi:
 EspChat
-12345678
+EspChaTP1
 
 URL:
 http://espchat.local
